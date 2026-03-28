@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#! /home/ubuntu/miniconda3/envs/py2/bin/python
 # -*- coding: utf-8 -*-
 
 # Copyright (C) 2016 MediaTek Inc.
